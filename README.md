@@ -78,3 +78,4 @@ El desarrollo ha permitido consolidar conocimientos fundamentales en diversas á
  - Integración de Ecosistemas: Uno de los mayores aprendizajes fue la conexión de componentes, logrando que el código en Python interactúe 
    con servicios en la nube, motores de procesamiento distribuido y contenedores de Docker.
 
+![alt text](image.png)
